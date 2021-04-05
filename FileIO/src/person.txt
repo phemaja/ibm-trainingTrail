@@ -1,0 +1,3 @@
+name = Hemaja Patoju
+age = 22
+city = vzm
